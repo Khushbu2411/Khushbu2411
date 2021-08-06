@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Khushbu2411
+- 👋 Hi, I’m Khushbu Agrawal.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ...
